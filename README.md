@@ -143,7 +143,7 @@ Automated dashboard reduces manual reporting.
 
 Faster decisions with self-service analytics.
 
-Potential 10% cost savings and 20% analyst time savings.
+Potential 10% cost savings and 40% analyst time savings.
 
 🌐 Publishing
 
